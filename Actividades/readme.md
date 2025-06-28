@@ -1,1 +1,3 @@
 Actividad 14 --> El código del archivo .bat que escanea una red se encuentra en mi repositorio de BAT files.
+
+La actividad 17 fue mi favorita porque sólo se subió el dataset sin darnos instrucciones marcadas sobre qué hacer, es decir, se nos dio "rienda suelta". Además, pese a que mi modelo que se entregó en el reporte no fue el final (debido a que me quedé sin tiempo por los largos tiempos de espera) yo continué refinando el modelo por mi cuenta hasta dar con un resultado bueno. El trabajo en este curso fue extracurricular por lo que vi estos trabajos como una introducción a Python para mi y no me preocupé tanto por hacer modelos o resultados refinados al máximo.
